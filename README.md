@@ -3,4 +3,4 @@
 
 # La fenêtre de la console Active Directory Users and Computers dans laquelle on voit que le client est dans le conteneur Computers
 <img width="1099" height="880" alt="Capture d&#39;écran 2026-04-18 100954" src="https://github.com/user-attachments/assets/709241cd-d2ab-486f-a4c2-0b2c498934b9" />
-
+<img width="547" height="263" alt="image" src="https://github.com/user-attachments/assets/063c0912-0987-4377-bc36-a86d6cc61392" />
